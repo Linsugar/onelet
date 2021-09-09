@@ -1,0 +1,45 @@
+[
+  {
+    "name": "一族之长",
+    "statue": "800000",
+    "bool":false
+  },
+  {
+    "name": "族老",
+    "statue": "800000",
+    "bool":false
+  },
+
+  {
+    "name": "大长老",
+    "statue": "800000",
+    "bool":true
+  },
+
+  {
+    "name": "二长老",
+    "statue": "800000",
+    "bool":false
+  },
+
+  {
+    "name": "三长老",
+    "statue": "800000",
+    "bool":false
+  },
+  {
+    "name": "族议员",
+    "statue": "800000",
+    "bool":false
+  },
+  {
+    "name": "族代表",
+    "statue": "800000",
+    "bool":false
+  },
+  {
+    "name": "族员",
+    "statue": "800000",
+    "bool":false
+  }
+]
